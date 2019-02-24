@@ -1,0 +1,9 @@
+/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Domain/bin/Debug/netcoreapp2.2/Domain.deps.json
+/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Domain/bin/Debug/netcoreapp2.2/Domain.dll
+/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Domain/bin/Debug/netcoreapp2.2/Domain.pdb
+/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Domain/obj/Debug/netcoreapp2.2/Domain.csprojAssemblyReference.cache
+/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Domain/obj/Debug/netcoreapp2.2/Domain.csproj.CoreCompileInputs.cache
+/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Domain/obj/Debug/netcoreapp2.2/Domain.AssemblyInfoInputs.cache
+/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Domain/obj/Debug/netcoreapp2.2/Domain.AssemblyInfo.cs
+/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Domain/obj/Debug/netcoreapp2.2/Domain.dll
+/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Domain/obj/Debug/netcoreapp2.2/Domain.pdb

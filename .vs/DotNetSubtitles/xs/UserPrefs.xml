@@ -1,0 +1,90 @@
+﻿<Properties StartupConfiguration="{554F3732-2783-470F-9609-B5B914C832A5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Infrastructure.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/SubtitleAPI/SubtitleAPI.cs">
+    <Files>
+      <File FileName="Subtitles/Controllers/SubtitlesController.cs" Line="33" Column="1" />
+      <File FileName="Subtitles/Controllers/FindSubtitleDto.cs" Line="8" Column="16" />
+      <File FileName="Application/Commands/ICommand.cs" Line="16" Column="6" />
+      <File FileName="../../../:Volumes:Users_Data:Users:awerck:Documents:Prog:FULL-STACK:DotNetSubtitles:Application:Commands:ICommandHandler.cs" Line="7" Column="9" />
+      <File FileName="Application/Queries/IQuery.cs" Line="18" Column="6" />
+      <File FileName="Application/Commands/CommandDispatcher.cs" Line="60" Column="1" />
+      <File FileName="Domain/Entity.cs" Line="4" Column="29" />
+      <File FileName="Application/IRepository.cs" Line="5" Column="14" />
+      <File FileName="Infrastructure/Repository.cs" Line="17" Column="15" />
+      <File FileName="Application/Queries/GetSubtitleQuery.cs" Line="6" Column="27" />
+      <File FileName="Subtitles/appsettings.json" Line="1" Column="1" />
+      <File FileName="Infrastructure/SubtitleAPI/OpenSubtitlesAPI.cs" Line="20" Column="14" />
+      <File FileName="Infrastructure/SubtitleAPI/OpenSubtitlesResults.cs" Line="80" Column="53" />
+      <File FileName="Infrastructure/SubtitleAPI/SubtitleAPI.cs" Line="28" Column="14" />
+      <File FileName="Application/ISubtitleAPI.cs" Line="10" Column="14" />
+      <File FileName="Infrastructure/SubtitleAPI/OMDBAPI.cs" Line="20" Column="66" />
+      <File FileName="Application/Queries/GetSubtitleQueryHandler.cs" Line="17" Column="1" />
+      <File FileName="Subtitles.Tests/EpisodeFormatterTests.cs" Line="20" Column="1" />
+      <File FileName="Subtitles/Controllers/EpisodeFormatter.cs" Line="33" Column="38" />
+      <File FileName="Subtitles/Startup.cs" Line="46" Column="1" />
+      <File FileName="Application/Queries/GetEpisodeQuery.cs" Line="9" Column="50" />
+      <File FileName="Application/Queries/GetEpisodeQueryHandler.cs" Line="16" Column="17" />
+      <File FileName="Infrastructure.Tests/OMDBAPITests.cs" Line="22" Column="32" />
+      <File FileName="Infrastructure.Tests/OpenSubtitleAPITests.cs" Line="18" Column="81" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DotNetSubtitles" expanded="True">
+            <Node name="Application" expanded="True">
+              <Node name="Commands" expanded="True" />
+              <Node name="Queries" expanded="True" />
+            </Node>
+            <Node name="Domain" expanded="True" />
+            <Node name="Infrastructure" expanded="True">
+              <Node name="SubtitleAPI" expanded="True">
+                <Node name="SubtitleAPI.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastructure.Tests" expanded="True" />
+            <Node name="Subtitles" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Subtitles.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ef.ShowName()</Value>
+          <Value>ef.EpisodeName()</Value>
+          <Value>ef.EpisodeNumber()</Value>
+          <Value>ef.SeasonNumber()</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DotNetSubtitles" expanded="True">
+            <Node name="Subtitles.Tests" expanded="True">
+              <Node name="Subtitles" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="EpisodeFormatterTests" expanded="True">
+                    <Node name="FormatSuccess" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Subtitles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Subtitles.Tests/EpisodeFormatterTests.cs" relfile="Subtitles.Tests/EpisodeFormatterTests.cs" line="18" column="1" />
+      <Breakpoint file="/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Subtitles/Controllers/SubtitlesController.cs" relfile="Subtitles/Controllers/SubtitlesController.cs" line="34" column="27" />
+      <Breakpoint file="/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Subtitles/Controllers/SubtitlesController.cs" relfile="Subtitles/Controllers/SubtitlesController.cs" line="33" column="1" />
+      <Breakpoint file="/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Subtitles/Controllers/SubtitlesController.cs" relfile="Subtitles/Controllers/SubtitlesController.cs" line="25" column="1" />
+      <Breakpoint file="/Volumes/Users_Data/Users/awerck/Documents/Prog/FULL-STACK/DotNetSubtitles/Application/Queries/GetSubtitleQueryHandler.cs" relfile="Application/Queries/GetSubtitleQueryHandler.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
